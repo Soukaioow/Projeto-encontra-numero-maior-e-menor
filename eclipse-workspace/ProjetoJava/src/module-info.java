@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author kaiqu
- *
- */
-module ProjetoJava {
-}
